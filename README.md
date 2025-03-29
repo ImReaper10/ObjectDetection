@@ -1,1 +1,14 @@
+Task 1: Video is uploaded called: "
+
+
+The Graph for Task 2 for the truck tracking is as follows
+![image](https://github.com/user-attachments/assets/065fcb2d-25e7-42bb-acc0-5ba76e316749)
+
+
+
+
+
+This is the output graph for TASK 3 of the Assignment. Only 10 Epochs were used for the pretrained model due to GPU issues.
+
+
 ![image](https://github.com/user-attachments/assets/19e4c923-1338-4983-bfe6-9f81763743c2)
