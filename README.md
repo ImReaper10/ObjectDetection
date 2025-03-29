@@ -1,5 +1,5 @@
-TASK 1 and 2 are in the files 375assign3.ipynb
-TASK 3 is done in the file Assignpart3.ipynb
+# TASK 1 and 2 are in the files 375assign3.ipynb
+# TASK 3 is done in the file Assignpart3.ipynb
 
 
 # Task 1: 
