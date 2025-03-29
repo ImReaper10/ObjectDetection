@@ -12,5 +12,8 @@
 
 ## This is the output graph for TASK 3 of the Assignment. Only 10 Epochs were used for the pretrained model due to GPU issues.
 
+The video for the highway vehicle tracking is in the link:
+https://youtu.be/BHvD-K7Ddnw
+
 
 ![image](https://github.com/user-attachments/assets/19e4c923-1338-4983-bfe6-9f81763743c2)
