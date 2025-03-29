@@ -2,7 +2,8 @@ Task 1: Video is uploaded called: "
 
 
 The Graph for Task 2 for the truck tracking is as follows
-![image](https://github.com/user-attachments/assets/065fcb2d-25e7-42bb-acc0-5ba76e316749)
+![image](https://github.com/user-attachments/assets/329f8b97-a5b7-4575-8716-bbc004b2beab)
+
 
 
 
